@@ -1,0 +1,15 @@
+body{
+  backgroud: #bbbbbb;
+
+  div {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid red;
+    border-radius: 2rem;
+    background-image: url("./assets/images/tree.gif"), url("./assets/images/paper.gif");
+    background-repeat: no-repeat, repeat;
+  }
+}
+.box{
+  display: flex;
+}
